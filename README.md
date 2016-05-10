@@ -1,2 +1,2 @@
-# -Glossary
+#Glossary
 Common Glossary
